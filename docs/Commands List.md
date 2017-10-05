@@ -475,3 +475,6 @@ Commands and aliases | Description | Usage
 `.clublevelreq` | Sets the club required level to apply to join the club. You must be club owner. You can't set this number below 5.  | `.clublevelreq 7`
 `.clubdisband` | Disbands the club you're the owner of. This action is irreversible.  | `.clubdisband`
 `.clublb` | Shows club rankings on the specified page.  | `.clublb 2`
+
+
+
